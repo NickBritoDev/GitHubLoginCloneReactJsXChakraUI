@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitHubLoginCloneReactJsXChakraUI/static/css/main.a7a9531c.css",
+    "main.js": "/GitHubLoginCloneReactJsXChakraUI/static/js/main.09738944.js",
+    "index.html": "/GitHubLoginCloneReactJsXChakraUI/index.html",
+    "main.a7a9531c.css.map": "/GitHubLoginCloneReactJsXChakraUI/static/css/main.a7a9531c.css.map",
+    "main.09738944.js.map": "/GitHubLoginCloneReactJsXChakraUI/static/js/main.09738944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7a9531c.css",
+    "static/js/main.09738944.js"
+  ]
+}
